@@ -18,6 +18,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/judyln-common/proprietary/vendor/etc/camera/vnr/SJ_VideoNR_LUT.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/vnr/SJ_VideoNR_LUT.bin \
     vendor/lge/judyln-common/proprietary/vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.keymaster@3.0-service-qti.rc \
     vendor/lge/judyln-common/proprietary/vendor/etc/init/vendor.qti.hardware.sensorscalibrate@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.hardware.sensorscalibrate@1.0-service.rc \
+    vendor/lge/judyln-common/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
+    vendor/lge/judyln-common/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     vendor/lge/judyln-common/proprietary/vendor/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml \
     vendor/lge/judyln-common/proprietary/vendor/etc/qdcm_calib_data_SW49410_1440_3120_cmd_mode_dsc_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_SW49410_1440_3120_cmd_mode_dsc_dsi_panel.xml \
     vendor/lge/judyln-common/proprietary/vendor/etc/scve/facereco/gModel.dat:$(TARGET_COPY_OUT_VENDOR)/etc/scve/facereco/gModel.dat \
